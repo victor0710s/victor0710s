@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @victor0710s, 18y and I'm from Brazil
+- 👋 Hi, I’m @victor0710s, 19y and I'm from Brazil
 - 👀 I’m interested in Programming right now
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects to help newbies like me and at the same time gain more experience
