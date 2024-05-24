@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @victor0710s, 19y and I'm from Brazil
-- 👀 I’m interested in Programming right now
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects to help newbies like me and at the same time gain more experience
+- 👋 Hi, I’m @victor0710s, 21y and I'm from Brazil
+- 👀 I'm currently working at a company as a Support Analyst
+- 🌱 I’m currently studying Software Engineering at Uninter and others programming languages like JS, TS, Python...
 - 📫 How to reach me s.vih0710@gmail.com
 
 <!---
